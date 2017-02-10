@@ -47,7 +47,9 @@ box-sizing: border-box;
 #right {
 	font-size: 100px;
 	position: relative;
+	float: left;
 	top: 50%;
+	transform: translateY(-50%);	
 }
 
 #right {
